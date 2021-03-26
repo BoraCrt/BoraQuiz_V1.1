@@ -1,0 +1,106 @@
+[
+  {
+    "id":1,
+    "question":"Radyatörde suyun azalmasının sebebi aşağıdakilerden hangisidir?",
+    "image":"carradiotor",
+    "optionOne":"Termostat arızalıdır.",
+    "optionTwo":" Vantilatör kayışı sıkıdır.",
+    "optionThree":"Hararet (ısı) göstergesi arızalıdır.",
+    "optionFour":" Silindir kapak contasında kaçak vardır.",
+    "correctAnswer":4
+
+  },
+  {
+    "id":2,
+    "question":"Araçta çalışmayan bir elektrik sistemi olduğu zaman ilk kontrol edilmesi gereken yer aşağıdakilerden hangisidir?",
+    "image":"sigortakk",
+    "optionOne":"Fan motoru",
+    "optionTwo":" Far anahtarı",
+    "optionThree":" Sigorta kutusu",
+    "optionFour":"Yakıt göstergesi",
+    "correctAnswer":3
+
+  },
+  {
+    "id":3,
+    "question":"Otomobillerin trafiğe çıkarılabilmesi için aşağıdakilerden hangisinin yaptırılması zorunludur?",
+    "image":"arabasigorta",
+    "optionOne":"Zorunlu mali sorumluluk sigortasının",
+    "optionTwo":"Koltuk ferdi kaza sigortasının",
+    "optionThree":"Kasko sigortasının",
+    "optionFour":"Aracın bakımının",
+    "correctAnswer":1
+
+  },
+  {
+    "id":4,
+    "question":"Araçlarda hava filtresi kirli ise aşağıdakilerden hangisi olur?",
+    "image":"filtre4",
+    "optionOne":"Motor az yağ yakar.",
+    "optionTwo":"Motorun gücü artar.",
+    "optionThree":"Motor çok yağ yakar.",
+    "optionFour":"Motorun gücü azalır.",
+    "correctAnswer":4
+  },
+  {
+    "id":5,
+    "question":"El freni teli kopmuş ise aşağıdakilerden hangisi olur?",
+    "image":"elfo5",
+    "optionOne":"Fren pedal boşluğu artar.",
+    "optionTwo":"Fren sistemi hava yapar.",
+    "optionThree":"Kampana aşınır.",
+    "optionFour":"El freni tutmaz.",
+    "correctAnswer":4
+  },
+  {
+    "id":6,
+    "question":"Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+    "image":"egim",
+    "optionOne":"Kasisli yolu",
+    "optionTwo":"Eğimli Yolu",
+    "optionThree":"Açılan Köprüye Yaklaştığını",
+    "optionFour":"Mıcırlı Yolun Bulunduğunu",
+    "correctAnswer":2
+  },
+  {
+    "id":7,
+    "question":"Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+    "image":"soladon",
+    "optionOne":"Dönel Kavşak Yaklaşımını",
+    "optionTwo":"İleri ve Sola Mecburi Yön",
+    "optionThree":"Sağa ve Sola Mecburi Yön",
+    "optionFour":"Ada Etrafında Dönüş",
+    "correctAnswer":2
+  },
+  {
+    "id":8,
+    "question":"Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+    "image":"takipmesafe",
+    "optionOne":"70M Sonra Yolun Daralacağını",
+    "optionTwo":"70M Sonra Park Alanı",
+    "optionThree":"Saatteki Hızın 70KM Olduğu",
+    "optionFour":"Takip Mesafesinin En z 70M Olduğu",
+    "correctAnswer":4
+  },
+  {
+    "id":9,
+    "question":"Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+    "image":"kontrolsuz9",
+    "optionOne":"Dönel Kavşak",
+    "optionTwo":"Kontrolsüz Kavşak",
+    "optionThree":"Demir Yolu Geçidi",
+    "optionFour":"Tali Yol Kavşağı",
+    "correctAnswer":2
+  },
+  {
+    "id":10,
+    "question":"Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+    "image":"traktor10",
+    "optionOne":"Traktörün Geçebileceğini",
+    "optionTwo":"Traktörün Giremeyeceğini",
+    "optionThree":"Traktör Parkı",
+    "optionFour":"Sadece Traktörün Girebileceği",
+    "correctAnswer":2
+  }
+
+]

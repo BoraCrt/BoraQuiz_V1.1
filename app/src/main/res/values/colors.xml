@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9013FE</color>
+    <color name="colorPrimaryDark">#6A1B9A</color>
+    <color name="colorAccent">#9013FE</color>
+    <color name="grey">#94877f</color>
+    <color name="aqua">#66F9B0</color>
+    <color name="purple">#833ab4</color>
+    <color name="orange">#fcb045</color>
+    <color name="orange2">#fd5f2f</color>
+    <color name="fbuton">#6190E8</color>
+</resources>
